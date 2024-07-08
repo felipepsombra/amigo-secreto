@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Este projeto foi desenvolvido para facilitar a organização de sorteios entre amigos. Permite adicionar nomes de participantes, realizar sorteios aleatórios e exibir os resultados de forma clara. Utilizando HTML, CSS e JavaScript, o projeto oferece funcionalidades como formatação automática de nomes, embaralhamento da lista de participantes e atualizações dinâmicas na interface conforme as ações dos usuários. Ideal para grupos que desejam realizar sorteios de forma prática e divertida.
+Este projeto foi desenvolvido para facilitar a organização de sorteios entre amigos. Permite adicionar nomes de participantes, realizar sorteios aleatórios e exibir os resultados de forma clara. O projeto oferece funcionalidades como formatação automática de nomes, embaralhamento da lista de participantes e atualizações dinâmicas na interface conforme as ações dos usuários. Ideal para grupos que desejam realizar sorteios de forma prática e divertida.
 
 ## Site
 
